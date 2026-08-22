@@ -1,0 +1,19 @@
+examples/disaggregated_prefill_v1/load_balance_proxy_server_example.py
+  s_f56ccf8c06d260::t_1ac82937523f3d 129,818-861,916-946,948-949,951-974,976-982,984-987,989-995,997,1116-1124,1143-1151,1153-1181,1183-1250,1261-1262,1268-1273,1279-1327,1329-1333
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "552ed25523713aa4a475fe4cc22424f83b3cdca1",
+  "prompts": {},
+  "sessions": {
+    "s_f56ccf8c06d260": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8992344d3ecd2a6f6e8a9c",
+        "model": "glm-5.3__max"
+      },
+      "human_author": "xlshaoscu <xlshaoscu@foxmail.com>"
+    }
+  }
+}
