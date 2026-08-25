@@ -1,0 +1,37 @@
+examples/disaggregated_prefill_v1/load_balance_proxy_server_example.py
+  s_f56ccf8c06d260::t_82410a120aae81 959-1021
+  s_f56ccf8c06d260::t_8056eb391297b4 1210-1355,1359-1363,1370-1374,1376-1377,1380-1387,1389-1423,1434-1438,1440-1444,1446-1447,1451
+  s_f56ccf8c06d260::t_86ed578adaa3f7 1356-1358
+  s_f56ccf8c06d260::t_1ac82937523f3d 128,817-860,1049,1056-1064,1066-1067,1069-1092,1094-1100,1102-1105,1107-1113,1115,1439,1445,1448-1449
+  s_f56ccf8c06d260::t_042f3fd7052000 880-958
+  s_f56ccf8c06d260::t_7fa8a58cce941c 1364-1369,1375,1378-1379,1388
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "ed9bb99f5483279309e6b453418f255be87d167f",
+  "prompts": {},
+  "sessions": {
+    "s_f56ccf8c06d260": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8992344d3ecd2a6f6e8a9c",
+        "model": "glm-5.3"
+      },
+      "human_author": null,
+      "custom_attributes": {
+        "session_id": "6a8992344d3ecd2a6f6e8a9c",
+        "operation_id": "6a8d2e2e3f908c043e77e493",
+        "source_scene": "agent",
+        "dedupe_key": "6a8992344d3ecd2a6f6e8a9c:6a8d2e2e3f908c043e77e493:afterEdit:3af735c7",
+        "tool_type": "builtin",
+        "external_session_id": "6a8992344d3ecd2a6f6e8a9c",
+        "edit_kind": "file_edit",
+        "client_type": "ide",
+        "runtime_client": "trae-tob-git-ai",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "tool_use_id": "6a8d2e2e3f908c043e77e493"
+      }
+    }
+  }
+}
